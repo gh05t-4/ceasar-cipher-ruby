@@ -11,10 +11,12 @@ This is an implementation of ceasar cipher using ruby programming language. Also
 ### ceasar.py
 ```bash
 cd ceasar-cipher-ruby
-ruby ceasar.py <String> <Key> 
+chmod +x ceasar.py
+./ceasar.py <String> <Key> 
 ```
 
 ### ceasar_brute.sh
 ```bash
-cd ceasar_brute.sh <ciphertext>
+chmod +x ceasar_brute.sh
+./ceasar_brute.sh <ciphertext>
 ```
