@@ -8,11 +8,11 @@ This is an implementation of ceasar cipher using ruby programming language. Also
 
 ## Usage
 
-### ceasar.py
+### ceasar.rb
 ```bash
 cd ceasar-cipher-ruby
-chmod +x ceasar.py
-./ceasar.py <String> <Key> 
+chmod +x ceasar.rb
+./ceasar.rb <String> <Key> 
 ```
 
 ### ceasar_brute.sh
